@@ -1,4 +1,5 @@
 What the hel
-haoppen l
+halloen
+her er det p
 ingenting hva søren også her
 This doesn't look like javascript.
